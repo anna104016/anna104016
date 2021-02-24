@@ -8,8 +8,6 @@
 
 #### :small_orange_diamond: Tenho conhecimento e experiência com Adobe Photoshop e Illustrator.
 
-#### :small_orange_diamond: No momento não esou trabalhando, mas estou procurando um emprego na área.
-
 ### :books: :computer: Linguagens que venho estudando : ###
 
 - HTML
